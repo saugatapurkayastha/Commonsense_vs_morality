@@ -1,4 +1,4 @@
-# LLM Common Sense Contradiction Evaluation
+# Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in Instruction-Tuned LLMs
 [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue)](https://opensource.org/licenses/Apache-2.0)
 [![Python Versions](https://img.shields.io/badge/Python-3.10-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)]()
